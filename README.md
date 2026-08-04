@@ -45,7 +45,7 @@ python -m unittest discover tests
 
 ## GitHub
 
-Repository-Link: `https://github.com/<dein-benutzername>/studien-dashboard` *(Platzhalter – bitte anpassen)*
+Repository-Link: `https://github.com/poppj2005/studien-dashboard`
 
 ## Projektstruktur
 
