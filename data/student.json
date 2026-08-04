@@ -1,0 +1,415 @@
+{
+  "name": "Jana Popp",
+  "studiengang": {
+    "name": "B.Sc. Wirtschaftsinformatik",
+    "semester": [
+      {
+        "nummer": 1,
+        "module": [
+          {
+            "titel": "Einführung in die Wirtschaftsinformatik",
+            "ects": 5,
+            "status": "abgeschlossen",
+            "kurs_id": "DLBWIEWI01",
+            "pruefungsleistungen": [
+              {
+                "titel": "Klausur Wirtschaftsinformatik",
+                "art": "klausur",
+                "status": "bestanden",
+                "note": 2.7,
+                "punkte": 73.0,
+                "max_punkte": 100.0,
+                "relevantes_datum": "2024-05-10"
+              }
+            ]
+          },
+          {
+            "titel": "BWL I",
+            "ects": 3,
+            "status": "abgeschlossen",
+            "kurs_id": "BBWL01-01",
+            "pruefungsleistungen": [
+              {
+                "titel": "Klausur BWL I",
+                "art": "klausur",
+                "status": "bestanden",
+                "note": 2.3,
+                "punkte": 78.0,
+                "max_punkte": 100.0,
+                "relevantes_datum": "2024-10-30"
+              }
+            ]
+          },
+          {
+            "titel": "BWL II",
+            "ects": 2,
+            "status": "abgeschlossen",
+            "kurs_id": "BBWL02-01",
+            "pruefungsleistungen": [
+              {
+                "titel": "Klausur BWL II",
+                "art": "klausur",
+                "status": "bestanden",
+                "note": 2.3,
+                "punkte": 78.0,
+                "max_punkte": 100.0,
+                "relevantes_datum": "2024-10-30"
+              }
+            ]
+          },
+          {
+            "titel": "Einführung in das wissenschaftliche Arbeiten für IT und Technik",
+            "ects": 5,
+            "status": "abgeschlossen",
+            "kurs_id": "DLBWIRITT01",
+            "pruefungsleistungen": [
+              {
+                "titel": "Wissenschaftliche Ausarbeitung",
+                "art": "hausarbeit",
+                "status": "bestanden",
+                "note": 1.0,
+                "punkte": 98.0,
+                "max_punkte": 100.0,
+                "relevantes_datum": "2025-07-30"
+              }
+            ]
+          },
+          {
+            "titel": "Grundlagen der objektorientierten Programmierung mit Java",
+            "ects": 5,
+            "status": "abgeschlossen",
+            "kurs_id": "IOBP01",
+            "pruefungsleistungen": [
+              {
+                "titel": "Klausur objektorientierte Programmierung",
+                "art": "klausur",
+                "status": "bestanden",
+                "note": 2.7,
+                "punkte": 74.0,
+                "max_punkte": 100.0,
+                "relevantes_datum": "2024-10-12"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "nummer": 2,
+        "module": [
+          {
+            "titel": "Datenmodellierung und Datenbanksysteme",
+            "ects": 5,
+            "status": "abgeschlossen",
+            "kurs_id": "IDBS01",
+            "pruefungsleistungen": [
+              {
+                "titel": "Klausur Datenmodellierung und Datenbanksysteme",
+                "art": "klausur",
+                "status": "bestanden",
+                "note": 1.7,
+                "punkte": 88.0,
+                "max_punkte": 100.0,
+                "relevantes_datum": "2025-06-28"
+              }
+            ]
+          },
+          {
+            "titel": "Informationssysteme und Integration",
+            "ects": 5,
+            "status": "abgeschlossen",
+            "kurs_id": "DLBWIII01",
+            "pruefungsleistungen": [
+              {
+                "titel": "Klausur Informationssysteme und Integration",
+                "art": "klausur",
+                "status": "bestanden",
+                "note": 1.0,
+                "punkte": 97.0,
+                "max_punkte": 100.0,
+                "relevantes_datum": "2025-07-22"
+              }
+            ]
+          },
+          {
+            "titel": "Mathematik Grundlagen I",
+            "ects": 5,
+            "status": "abgeschlossen",
+            "kurs_id": "IMT101",
+            "pruefungsleistungen": [
+              {
+                "titel": "Klausur Mathematik Grundlagen I",
+                "art": "klausur",
+                "status": "bestanden",
+                "note": 2.3,
+                "punkte": 79.0,
+                "max_punkte": 100.0,
+                "relevantes_datum": "2025-07-11"
+              }
+            ]
+          },
+          {
+            "titel": "Data Analytics und Big Data",
+            "ects": 5,
+            "status": "abgeschlossen",
+            "kurs_id": "DLBINGDABD01",
+            "pruefungsleistungen": [
+              {
+                "titel": "Klausur Data Analytics und Big Data",
+                "art": "klausur",
+                "status": "bestanden",
+                "note": 1.3,
+                "punkte": 93.0,
+                "max_punkte": 100.0,
+                "relevantes_datum": "2025-10-06"
+              }
+            ]
+          },
+          {
+            "titel": "Requirements Engineering",
+            "ects": 5,
+            "status": "abgeschlossen",
+            "kurs_id": "IREN01",
+            "pruefungsleistungen": [
+              {
+                "titel": "Klausur Requirements Engineering",
+                "art": "klausur",
+                "status": "bestanden",
+                "note": 1.7,
+                "punkte": 87.0,
+                "max_punkte": 100.0,
+                "relevantes_datum": "2025-06-02"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "nummer": 3,
+        "module": [
+          {
+            "titel": "Projekt: Design Thinking für IT",
+            "ects": 5,
+            "status": "abgeschlossen",
+            "kurs_id": "DLBWIPDTIT01",
+            "pruefungsleistungen": [
+              {
+                "titel": "Projektbericht Design Thinking",
+                "art": "hausarbeit",
+                "status": "bestanden",
+                "note": 1.3,
+                "punkte": 92.0,
+                "max_punkte": 100.0,
+                "relevantes_datum": "2025-12-22"
+              }
+            ]
+          },
+          {
+            "titel": "Buchführung und Bilanzierung I",
+            "ects": 3,
+            "status": "abgeschlossen",
+            "kurs_id": "BBUB01-01",
+            "pruefungsleistungen": [
+              {
+                "titel": "Klausur Buchführung I",
+                "art": "klausur",
+                "status": "bestanden",
+                "note": 2.0,
+                "punkte": 83.0,
+                "max_punkte": 100.0,
+                "relevantes_datum": "2025-11-07"
+              }
+            ]
+          },
+          {
+            "titel": "Buchführung und Bilanzierung II",
+            "ects": 2,
+            "status": "abgeschlossen",
+            "kurs_id": "BBUB02-01",
+            "pruefungsleistungen": [
+              {
+                "titel": "Klausur Buchführung II",
+                "art": "klausur",
+                "status": "bestanden",
+                "note": 2.0,
+                "punkte": 83.0,
+                "max_punkte": 100.0,
+                "relevantes_datum": "2025-11-07"
+              }
+            ]
+          },
+          {
+            "titel": "Statistik",
+            "ects": 5,
+            "status": "abgeschlossen",
+            "kurs_id": "BSTA01-02",
+            "pruefungsleistungen": [
+              {
+                "titel": "Klausur Statistik",
+                "art": "klausur",
+                "status": "bestanden",
+                "note": 1.7,
+                "punkte": 88.0,
+                "max_punkte": 100.0,
+                "relevantes_datum": "2026-01-30"
+              }
+            ]
+          },
+          {
+            "titel": "IT-Projektmanagement",
+            "ects": 5,
+            "status": "abgeschlossen",
+            "kurs_id": "IPMG01-01",
+            "pruefungsleistungen": [
+              {
+                "titel": "Klausur IT-Projektmanagement",
+                "art": "klausur",
+                "status": "bestanden",
+                "note": 1.3,
+                "punkte": 94.0,
+                "max_punkte": 100.0,
+                "relevantes_datum": "2025-12-07"
+              }
+            ]
+          },
+          {
+            "titel": "Einführung in Datenschutz und IT-Sicherheit",
+            "ects": 5,
+            "status": "abgeschlossen",
+            "kurs_id": "DLBISIC01",
+            "pruefungsleistungen": [
+              {
+                "titel": "Klausur Datenschutz und IT-Sicherheit",
+                "art": "klausur",
+                "status": "bestanden",
+                "note": 1.3,
+                "punkte": 93.0,
+                "max_punkte": 100.0,
+                "relevantes_datum": "2026-03-27"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "nummer": 4,
+        "module": [
+          {
+            "titel": "Projekt: Digitale Business-Modelle",
+            "ects": 5,
+            "status": "abgeschlossen",
+            "kurs_id": "DLBWPPDBM01",
+            "pruefungsleistungen": [
+              {
+                "titel": "Projektbericht Digitale Business-Modelle",
+                "art": "hausarbeit",
+                "status": "bestanden",
+                "note": 2.3,
+                "punkte": 78.0,
+                "max_punkte": 100.0,
+                "relevantes_datum": "2026-03-13"
+              }
+            ]
+          },
+          {
+            "titel": "Projekt: Datenmodellierung",
+            "ects": 5,
+            "status": "abgeschlossen",
+            "kurs_id": "DLBWIPDM01",
+            "pruefungsleistungen": [
+              {
+                "titel": "Projektbericht Datenmodellierung",
+                "art": "hausarbeit",
+                "status": "bestanden",
+                "note": 1.7,
+                "punkte": 89.0,
+                "max_punkte": 100.0,
+                "relevantes_datum": "2026-03-09"
+              }
+            ]
+          },
+          {
+            "titel": "Qualitätssicherung im Softwareprozess",
+            "ects": 5,
+            "status": "abgeschlossen",
+            "kurs_id": "IQSS01",
+            "pruefungsleistungen": [
+              {
+                "titel": "Klausur Qualitätssicherung",
+                "art": "klausur",
+                "status": "bestanden",
+                "note": 1.0,
+                "punkte": 97.0,
+                "max_punkte": 100.0,
+                "relevantes_datum": "2026-03-04"
+              }
+            ]
+          },
+          {
+            "titel": "Supply Chain Management",
+            "ects": 5,
+            "status": "abgeschlossen",
+            "kurs_id": "DLBLOSCM01",
+            "pruefungsleistungen": [
+              {
+                "titel": "Klausur Supply Chain Management",
+                "art": "klausur",
+                "status": "bestanden",
+                "note": 1.7,
+                "punkte": 88.0,
+                "max_punkte": 100.0,
+                "relevantes_datum": "2026-04-12"
+              }
+            ]
+          },
+          {
+            "titel": "Projekt: Analyse von Prozessen und Wertströmen",
+            "ects": 5,
+            "status": "abgeschlossen",
+            "kurs_id": "DLBWIPAPW01",
+            "pruefungsleistungen": [
+              {
+                "titel": "Projektbericht Prozesse und Wertströme",
+                "art": "hausarbeit",
+                "status": "bestanden",
+                "note": 1.0,
+                "punkte": 98.0,
+                "max_punkte": 100.0,
+                "relevantes_datum": "2026-06-25"
+              }
+            ]
+          },
+          {
+            "titel": "Einführung in die Programmierung mit Python",
+            "ects": 5,
+            "status": "abgeschlossen",
+            "kurs_id": "DLBDSIPWP01_D",
+            "pruefungsleistungen": [
+              {
+                "titel": "Klausur Programmierung mit Python",
+                "art": "klausur",
+                "status": "bestanden",
+                "note": 1.0,
+                "punkte": 97.0,
+                "max_punkte": 100.0,
+                "relevantes_datum": "2026-06-09"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "ects_ziel": {
+    "bezeichnung": "ECTS-Fortschritt",
+    "ziel_ects": 180,
+    "ziel_datum": "2027-09-30"
+  },
+  "noten_ziel": {
+    "bezeichnung": "Notendurchschnitt",
+    "ziel_notenschnitt": 2.0
+  },
+  "fristen_ziel": {
+    "bezeichnung": "Fristen",
+    "warnschwelle_tage": 14
+  }
+}

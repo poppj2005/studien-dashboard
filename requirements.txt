@@ -1,0 +1,3 @@
+# Dieser Prototyp verwendet ausschließlich die Python-Standardbibliothek
+# (u. a. dataclasses, enum, json, pathlib, tkinter, unittest).
+# Es sind keine externen Pakete erforderlich.
