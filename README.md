@@ -43,6 +43,10 @@ Datei nicht, erzeugt das Repository automatisch eine sinnvolle Beispieldatei.
 python -m unittest discover tests
 ```
 
+## Beispiel-CSV
+
+Eine Musterdatei für den CSV-Import liegt im Projekt unter `data/beispiel_import.csv`. Diese Datei kann verwendet werden, um die Importfunktion des Dashboards direkt zu testen.
+
 ## GitHub
 
 Repository-Link: `https://github.com/poppj2005/studien-dashboard`
